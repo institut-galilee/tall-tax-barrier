@@ -1,4 +1,4 @@
-# Tall Tax Barrier
+# Toll Tax Barrier
 
 ## Author
 * BEN KHEMIS Sofiene (sofiene.benkhemis@etu.univ-paris13.fr)
